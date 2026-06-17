@@ -4,6 +4,7 @@ A beautifully designed, cloud-themed minimalist landing page built with modern f
  NOTE:the project is made by me and the other contributer is jsut my laptop's pushing the files to the github so it came as an contributer.
 🔗 **Live Demo:** [clouds-website-two.vercel.app](https://vercel.app)
 
+Used Ai for making this read.me and debugging in the code and some colpletions and planning.
 ---
 
 ## 🎨 Design & Visual Features
