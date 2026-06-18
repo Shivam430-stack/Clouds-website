@@ -3,8 +3,8 @@
 A beautifully designed, cloud-themed minimalist landing page built with modern frontend tools. This project features high-fidelity visual overlays, dynamic cloud aesthetics, interactive micro-interactions, and completely responsive layouts.
  NOTE:the project is made by me and the other contributer is jsut my laptop's pushing the files to the github so it came as an contributer.
 🔗 **Live Demo:** [clouds-website-two.vercel.app](https://vercel.app)
-
-Used Ai for making this read.me and debugging in the code and some colpletions and planning.
+###
+I used  github copliot in vs code to debug my code and for some code mplcoetion.and used google gemeni to also write out the read.me in the github
 ---
 
 ## 🎨 Design & Visual Features
