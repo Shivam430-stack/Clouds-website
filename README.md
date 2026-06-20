@@ -6,8 +6,9 @@ A beautifully designed, cloud-themed minimalist landing page built with modern f
  
 ## Ai usage declaration
 I used  github copliot in vs code to debug my code and for some code completion.and used google gemeni to also write out the read.me in the github
-
-
+```
+The buttons on the left are for pricing ,clouds, and menu and to check them thye lead to my repo and it is meant to be chnaged based on needs and the sign in button is jsut for show and could be used if authentication is applied to it.
+```
 ## 🎨 Design & Visual Features
 
 * **Cloud-Themed Aesthetics:** Features a beautifully integrated backdrop capturing fluid atmospheric styling and soft typography.
